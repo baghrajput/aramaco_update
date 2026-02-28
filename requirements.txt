@@ -9,10 +9,4 @@ jinja2
 python-multipart
 aiohttp
 ollama
-openai-whisper
 gtts
-torch
-transformers
-accelerate
-soundfile
-librosa
